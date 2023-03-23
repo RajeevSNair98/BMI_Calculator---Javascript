@@ -1,0 +1,35 @@
+input{
+    border-radius: 1rem;
+}
+
+.btn-1{
+    width: 90px;
+    border-radius: 1rem;
+    
+}
+
+#details{
+   background-color: rgb(250, 222, 222);
+   justify-content: center;
+   border-radius: 2rem;
+   font-weight: bold;
+}
+
+#details1{
+   background-color: rgb(250, 222, 222);
+    justify-content: center;
+    font-weight: bold;
+    border-radius: 2rem;
+ }
+
+ .sub-btn-1{
+    padding-top: 4px;
+ }
+
+ .btn-1 :hover{
+    background-color: gray !important;
+ }
+
+ .alert1{
+    display: none;
+ }
